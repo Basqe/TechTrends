@@ -1,0 +1,8 @@
+piVersion: v1
+name: techtrends
+keywords:
+- techtrends
+version: 1.0.0
+maintainers:
+- name: basqe
+  email: karolbaska@gmail.com
