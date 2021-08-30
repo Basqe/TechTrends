@@ -1,2 +1,2 @@
 # TechTrends
-Udacity project
+Udacity project no 1
